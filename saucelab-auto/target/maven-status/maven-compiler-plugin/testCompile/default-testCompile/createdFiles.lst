@@ -1,0 +1,16 @@
+page\object\lifeClaimPO.class
+runner\BBCrunner.class
+page\object\loginPO.class
+driver\driverFactory.class
+stepdefinitions\sheredStepdef.class
+stepdefinitions\lifeClaimStepdef.class
+page\object\sharedPO.class
+stepdefinitions\_StepHooks.class
+page\object\myTaskPO.class
+page\repo\bbcRepo.class
+page\repo\claimRepo.class
+page\utils\ReadAndWriteExcel.class
+page\utils\settings.class
+page\object\registerClaimPO.class
+stepdefinitions\commonSetup.class
+page\utils\Captures.class
